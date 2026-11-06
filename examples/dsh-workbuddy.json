@@ -1,0 +1,16 @@
+{
+  "title": "DSH 接 WorkBuddy 保姆教程",
+  "app": "DeepSeek Harness",
+  "goal": "用本机转发接上 WorkBuddy",
+  "plugin": "github:Ianzhyh/workbuddy-to-dsh",
+  "install": {
+    "steps": ["安装插件", "重启 DSH", "打开设置 → WorkBuddy"]
+  }
+}
+
+
+
+
+
+
+
